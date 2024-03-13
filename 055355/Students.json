@@ -8,8 +8,9 @@
       "currentSurah": "القاعدة النورانية",
       "parentId": "604932",
       "parentPhone": "0536781483",
-      "teatcher": "عصام",
-      "state": true,
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": false,
       "registerDate": "08/01/1445H"
     }
   },
@@ -22,8 +23,9 @@
       "currentSurah": "قريش",
       "parentId": "953503",
       "parentPhone": "055757960",
-      "teatcher": "عصام",
-      "state": true,
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": false,
       "registerDate": "01/08/1445H"
     }
   },
@@ -36,7 +38,8 @@
       "currentSurah": "البينة",
       "parentId": "041039",
       "parentPhone": "0547555016",
-      "teatcher": "عصام",
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "28/06/1445H"
     }
@@ -50,7 +53,8 @@
       "currentSurah": "البينة",
       "parentId": "041039",
       "parentPhone": "0547555016",
-      "teatcher": "عصام",
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "28/06/1445H"
     }
@@ -64,7 +68,8 @@
       "currentSurah": "القاعدة النورانية",
       "parentId": "773494",
       "parentPhone": "0505434909",
-      "teatcher": "عصام",
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "15/07/1445H"
     }
@@ -78,8 +83,9 @@
       "currentSurah": "الإخلاص",
       "parentId": "118513",
       "parentPhone": "0583313531",
-      "teatcher": "عصام",
-      "state": true,
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": false,
       "registerDate": "01/08/1445H"
     }
   },
@@ -92,7 +98,8 @@
       "currentSurah": "المرسلات",
       "parentId": "914855",
       "parentPhone": "0504355736",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "12/01/1445H"
     }
@@ -106,7 +113,8 @@
       "currentSurah": "الجاثية",
       "parentId": "914855",
       "parentPhone": "0504355736",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "12/01/1445H"
     }
@@ -120,8 +128,9 @@
       "currentSurah": "البينة",
       "parentId": "734469",
       "parentPhone": "0555562905",
-      "teatcher": "عصام",
-      "state": true,
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": false,
       "registerDate": "17/07/1445H"
     }
   },
@@ -134,8 +143,9 @@
       "currentSurah": "القاعدة النورانية",
       "parentId": "734469",
       "parentPhone": "0555562905",
-      "teatcher": "عصام",
-      "state": true,
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": false,
       "registerDate": "17/07/1445H"
     }
   },
@@ -148,7 +158,8 @@
       "currentSurah": "نوح",
       "parentId": "384859",
       "parentPhone": "0555541980",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "03/04/1445H"
     }
@@ -162,8 +173,9 @@
       "currentSurah": "الطارق",
       "parentId": "494989",
       "parentPhone": "0553248183",
-      "teatcher": "عصام",
-      "state": true,
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": false,
       "registerDate": "04/07/1445H"
     }
   },
@@ -176,7 +188,8 @@
       "currentSurah": "الليل",
       "parentId": "857481",
       "parentPhone": "0566766172",
-      "teatcher": "عصام",
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "04/07/1445H"
     }
@@ -190,7 +203,8 @@
       "currentSurah": "الزخرف",
       "parentId": "337406",
       "parentPhone": "0565982209",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "12/06/1444H"
     }
@@ -204,7 +218,8 @@
       "currentSurah": "ق",
       "parentId": "337406",
       "parentPhone": "0565982209",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "12/06/1444H"
     }
@@ -218,7 +233,8 @@
       "currentSurah": "النجم",
       "parentId": "337406",
       "parentPhone": "0565982209",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "12/06/1444H"
     }
@@ -232,7 +248,8 @@
       "currentSurah": "النجم",
       "parentId": "593807",
       "parentPhone": "0550090481",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "02/06/1445H"
     }
@@ -246,7 +263,8 @@
       "currentSurah": "الجاثية",
       "parentId": "561720",
       "parentPhone": "0508756500",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "12/05/1445H"
     }
@@ -260,7 +278,8 @@
       "currentSurah": "القصص",
       "parentId": "824330",
       "parentPhone": "0576737449",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "13/06/1445H"
     }
@@ -274,7 +293,8 @@
       "currentSurah": "النازعات",
       "parentId": "241549",
       "parentPhone": "0562539336",
-      "teatcher": "عصام",
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "07/07/1445H"
     }
@@ -288,7 +308,8 @@
       "currentSurah": "المرسلات",
       "parentId": "544543",
       "parentPhone": "0553531383",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "08/04/1445H"
     }
@@ -302,7 +323,8 @@
       "currentSurah": "المزمل",
       "parentId": "544543",
       "parentPhone": "0553531383",
-      "teatcher": "عبد الله",
+      "teatcherId": "1974",
+      "mosqueN": "m055355",
       "state": true,
       "registerDate": "08/04/1445H"
     }
@@ -316,7 +338,8 @@
         "currentSurah": "التكوير",
         "parentId": "606046",
         "parentPhone": "0503108679",
-        "teatcher": "عبد الله",
+        "teatcherId": "1974",
+        "mosqueN": "m055355",
         "state": true,
         "registerDate": "28/07/1445H"
       }
@@ -330,7 +353,8 @@
         "currentSurah": "القدر",
         "parentId": "606046",
         "parentPhone": "0503108679",
-        "teatcher": "عصام",
+        "teatcherId": "2002",
+        "mosqueN": "m055355",
         "state": true,
         "registerDate": "28/07/1445H"
       }
@@ -344,7 +368,8 @@
         "currentSurah": "عبس",
         "parentId": "312034",
         "parentPhone": "0533660564",
-        "teatcher": "عبد الله",
+        "teatcherId": "1974",
+        "mosqueN": "m055355",
         "state": true,
         "registerDate": "02/08/1445H"
       }
@@ -358,7 +383,8 @@
         "currentSurah": "ق",
         "parentId": "286076",
         "parentPhone": "0599475125",
-        "teatcher": "عبد الله",
+        "teatcherId": "1974",
+        "mosqueN": "m055355",
         "state": true,
         "registerDate": "21/10/1444H"
       }
@@ -372,7 +398,8 @@
         "currentSurah": "البروج",
         "parentId": "603676",
         "parentPhone": "0532111446",
-        "teatcher": "عبد الله",
+        "teatcherId": "1974",
+        "mosqueN": "m055355",
         "state": true,
         "registerDate": "02/08/1445H"
       }
@@ -386,7 +413,8 @@
         "currentSurah": "المرسلات",
         "parentId": "190062",
         "parentPhone": "0555081575",
-        "teatcher": "عبد الله",
+        "teatcherId": "1974",
+        "mosqueN": "m055355",
         "state": true,
         "registerDate": "12/06/1445H"
       }
@@ -400,7 +428,8 @@
           "currentSurah": "الذاريات",
           "parentId": "513888",
           "parentPhone": "0510251070",
-          "teatcher": "عبد الله",
+          "teatcherId": "1974",
+          "mosqueN": "m055355",
           "state": true,
           "registerDate": "12/03/1445H"
         }
@@ -414,7 +443,8 @@
         "currentSurah": "البقرة",
         "parentId": "501830",
         "parentPhone": "",
-        "teatcher": "عبد الله",
+        "teatcherId": "1974",
+        "mosqueN": "m055355",
         "state": false,
         "registerDate": "04/08/1445H"
       }
@@ -428,7 +458,8 @@
           "currentSurah": "الناس",
           "parentId": "058723",
           "parentPhone": "0557092584",
-          "teatcher": "عصام",
+          "teatcherId": "2002",
+          "mosqueN": "m055355",
           "state": true,
           "registerDate": "10/08/1445H"
         }
@@ -442,7 +473,8 @@
           "currentSurah": "القمر",
           "parentId": "743891",
           "parentPhone": "0500068635",
-          "teatcher": "عبد الله",
+          "teatcherId": "1974",
+          "mosqueN": "m055355",
           "state": true,
           "registerDate": "25/02/1445H"
         }
