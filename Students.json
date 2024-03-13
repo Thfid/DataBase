@@ -1,0 +1,451 @@
+[
+  {
+    "040620": {
+      "studintName": "عبد_الله محمد الكناني",
+      "studintId": "040620",
+      "studintPhone": "",
+      "studintAge": "10/1/1441",
+      "currentSurah": "القاعدة النورانية",
+      "parentId": "604932",
+      "parentPhone": "0536781483",
+      "teatcher": "عصام",
+      "state": true,
+      "registerDate": "08/01/1445H"
+    }
+  },
+  {
+    "793420": {
+      "studintName": "عبد_الله راشد عبد_الله الصبحي",
+      "studintId": "793420",
+      "studintPhone": "",
+      "studintAge": "13/02/1435",
+      "currentSurah": "قريش",
+      "parentId": "953503",
+      "parentPhone": "055757960",
+      "teatcher": "عصام",
+      "state": true,
+      "registerDate": "01/08/1445H"
+    }
+  },
+  {
+    "283455": {
+      "studintName": "محمد عوض أحمد المالكي",
+      "studintId": "283455",
+      "studintPhone": "",
+      "studintAge": "18/08/1432",
+      "currentSurah": "البينة",
+      "parentId": "041039",
+      "parentPhone": "0547555016",
+      "teatcher": "عصام",
+      "state": true,
+      "registerDate": "28/06/1445H"
+    }
+  },
+  {
+    "117888": {
+      "studintName": "مشاري عوض أحمد المالكي",
+      "studintId": "117888",
+      "studintPhone": "",
+      "studintAge": "09/04/1434",
+      "currentSurah": "البينة",
+      "parentId": "041039",
+      "parentPhone": "0547555016",
+      "teatcher": "عصام",
+      "state": true,
+      "registerDate": "28/06/1445H"
+    }
+  },
+  {
+    "321351": {
+      "studintName": "علي عبد_الله حسن سريحي",
+      "studintId": "321351",
+      "studintPhone": "",
+      "studintAge": "09/11/1438",
+      "currentSurah": "القاعدة النورانية",
+      "parentId": "773494",
+      "parentPhone": "0505434909",
+      "teatcher": "عصام",
+      "state": true,
+      "registerDate": "15/07/1445H"
+    }
+  },
+  {
+    "449069": {
+      "studintName": "تميم ماجد عبد_الله الصبحي",
+      "studintId": "449069",
+      "studintPhone": "",
+      "studintAge": "22/11/1437",
+      "currentSurah": "الإخلاص",
+      "parentId": "118513",
+      "parentPhone": "0583313531",
+      "teatcher": "عصام",
+      "state": false,
+      "registerDate": "01/08/1445H"
+    }
+  },
+  {
+    "356552": {
+      "studintName": "اياد عدنان مرزوق الأحمدي",
+      "studintId": "356552",
+      "studintPhone": "",
+      "studintAge": "22/11/1435",
+      "currentSurah": "المرسلات",
+      "parentId": "914855",
+      "parentPhone": "0504355736",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "12/01/1445H"
+    }
+  },
+  {
+    "035223": {
+      "studintName": "راكان عدنان مرزوق الاحمدي",
+      "studintId": "035223",
+      "studintPhone": "0577049969",
+      "studintAge": "30/03/1430",
+      "currentSurah": "الجاثية",
+      "parentId": "914855",
+      "parentPhone": "0504355736",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "12/01/1445H"
+    }
+  },
+  {
+    "095572": {
+      "studintName": "مساعد مجدي مساعد الشريف",
+      "studintId": "095572",
+      "studintPhone": "",
+      "studintAge": "11/01/1434",
+      "currentSurah": "البينة",
+      "parentId": "734469",
+      "parentPhone": "0555562905",
+      "teatcher": "عصام",
+      "state": false,
+      "registerDate": "17/07/1445H"
+    }
+  },
+  {
+    "466453": {
+      "studintName": "تميم مجدي مساعد الشريف",
+      "studintId": "466453",
+      "studintPhone": "",
+      "studintAge": "03/041437",
+      "currentSurah": "القاعدة النورانية",
+      "parentId": "734469",
+      "parentPhone": "0555562905",
+      "teatcher": "عصام",
+      "state": false,
+      "registerDate": "17/07/1445H"
+    }
+  },
+  {
+    "611063": {
+      "studintName": "خالد محمد خالد المدني",
+      "studintId": "611063",
+      "studintPhone": "",
+      "studintAge": "17/11/1435",
+      "currentSurah": "نوح",
+      "parentId": "384859",
+      "parentPhone": "0555541980",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "03/04/1445H"
+    }
+  },
+  {
+    "433053": {
+      "studintName": "محمد عبد_الله محمد باداود",
+      "studintId": "433053",
+      "studintPhone": "",
+      "studintAge": "29/04/1434",
+      "currentSurah": "الطارق",
+      "parentId": "494989",
+      "parentPhone": "0553248183",
+      "teatcher": "عصام",
+      "state": true,
+      "registerDate": "04/07/1445H"
+    }
+  },
+  {
+    "107544": {
+      "studintName": "عبد_الرحمن عبد_الكريم مساعد الأنصاري",
+      "studintId": "107544",
+      "studintPhone": "0548505477",
+      "studintAge": "06/08/1431",
+      "currentSurah": "الليل",
+      "parentId": "857481",
+      "parentPhone": "0566766172",
+      "teatcher": "عصام",
+      "state": true,
+      "registerDate": "04/07/1445H"
+    }
+  },
+  {
+    "372187": {
+      "studintName": "ناصر منصور ناصر الشريف",
+      "studintId": "372187",
+      "studintPhone": "0560653087",
+      "studintAge": "",
+      "currentSurah": "الزخرف",
+      "parentId": "337406",
+      "parentPhone": "0565982209",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "12/06/1444H"
+    }
+  },
+  {
+    "370554": {
+      "studintName": "باسم منصور ناصر الشريف",
+      "studintId": "370554",
+      "studintPhone": "0530634204",
+      "studintAge": "",
+      "currentSurah": "ق",
+      "parentId": "337406",
+      "parentPhone": "0565982209",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "12/06/1444H"
+    }
+  },
+  {
+    "759006": {
+      "studintName": "عصام منصور ناصر الشريف",
+      "studintId": "759006",
+      "studintPhone": "0593220711",
+      "studintAge": "",
+      "currentSurah": "النجم",
+      "parentId": "337406",
+      "parentPhone": "0565982209",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "12/06/1444H"
+    }
+  },
+  {
+    "757015": {
+      "studintName": "ابراهيم اسامة ابراهيم البشير",
+      "studintId": "757015",
+      "studintPhone": "0550913628",
+      "studintAge": "",
+      "currentSurah": "النجم",
+      "parentId": "593807",
+      "parentPhone": "0550090481",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "02/06/1445H"
+    }
+  },
+  {
+    "465636": {
+      "studintName": "يوسف محمد يحيي الضيفي",
+      "studintId": "465636",
+      "studintPhone": "0552907844",
+      "studintAge": "08/01/1435",
+      "currentSurah": "الجاثية",
+      "parentId": "561720",
+      "parentPhone": "0508756500",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "12/05/1445H"
+    }
+  },
+  {
+    "358710": {
+      "studintName": "طلحة عبيد_الله نور أحمد",
+      "studintId": "358710",
+      "studintPhone": "0530154160",
+      "studintAge": "01/01/2010",
+      "currentSurah": "القصص",
+      "parentId": "824330",
+      "parentPhone": "0576737449",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "13/06/1445H"
+    }
+  },
+  {
+    "943365": {
+      "studintName": "عبد_الرحمن قايد قايد هادي",
+      "studintId": "943365",
+      "studintPhone": "",
+      "studintAge": "19/01/1430",
+      "currentSurah": "النازعات",
+      "parentId": "241549",
+      "parentPhone": "0562539336",
+      "teatcher": "عصام",
+      "state": true,
+      "registerDate": "07/07/1445H"
+    }
+  },
+  {
+    "679003": {
+      "studintName": "عبد_المجيد عبد_الله منور اللحياني",
+      "studintId": "679003",
+      "studintPhone": "",
+      "studintAge": "16/05/1432",
+      "currentSurah": "المرسلات",
+      "parentId": "544543",
+      "parentPhone": "0553531383",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "08/04/1445H"
+    }
+  },
+  {
+    "681786": {
+      "studintName": "عبد_الرحمن عبد_الله منور اللحياني",
+      "studintId": "681786",
+      "studintPhone": "",
+      "studintAge": "26/12/1433",
+      "currentSurah": "المزمل",
+      "parentId": "544543",
+      "parentPhone": "0553531383",
+      "teatcher": "عبد الله",
+      "state": true,
+      "registerDate": "08/04/1445H"
+    }
+  },
+  {
+      "918514": {
+        "studintName": "ابراهيم حسن ابراهيم البركاتي",
+        "studintId": "918514",
+        "studintPhone": "0536086671",
+        "studintAge": "27/02/1429",
+        "currentSurah": "التكوير",
+        "parentId": "606046",
+        "parentPhone": "0503108679",
+        "teatcher": "عبد الله",
+        "state": true,
+        "registerDate": "28/07/1445H"
+      }
+    },
+    {
+      "103848": {
+        "studintName": "محمد حسن ابراهيم البركاتي",
+        "studintId": "103848",
+        "studintPhone": "",
+        "studintAge": "30/10/1435",
+        "currentSurah": "القدر",
+        "parentId": "606046",
+        "parentPhone": "0503108679",
+        "teatcher": "عصام",
+        "state": true,
+        "registerDate": "28/07/1445H"
+      }
+    },
+    {
+      "581194": {
+        "studintName": "احمد صلاح احمد سلطان",
+        "studintId": "581194",
+        "studintPhone": "",
+        "studintAge": "",
+        "currentSurah": "عبس",
+        "parentId": "312034",
+        "parentPhone": "0533660564",
+        "teatcher": "عبد الله",
+        "state": true,
+        "registerDate": "02/08/1445H"
+      }
+    },
+    {
+      "474855": {
+        "studintName": "اصيل محمد أبكر",
+        "studintId": "474855",
+        "studintPhone": "0542744562",
+        "studintAge": "",
+        "currentSurah": "ق",
+        "parentId": "286076",
+        "parentPhone": "0599475125",
+        "teatcher": "عبد الله",
+        "state": true,
+        "registerDate": "21/10/1444H"
+      }
+    },
+    {
+      "295209": {
+        "studintName": "نايف عوض محمد المرفدي",
+        "studintId": "295209",
+        "studintPhone": "",
+        "studintAge": "19/02/1434",
+        "currentSurah": "البروج",
+        "parentId": "603676",
+        "parentPhone": "0532111446",
+        "teatcher": "عبد الله",
+        "state": true,
+        "registerDate": "02/08/1445H"
+      }
+    },
+    {
+      "326555": {
+        "studintName": "محمد سعيد الرحمن عبد_الرحيم",
+        "studintId": "326555",
+        "studintPhone": "0576190364",
+        "studintAge": "29/07/1433",
+        "currentSurah": "المرسلات",
+        "parentId": "190062",
+        "parentPhone": "0555081575",
+        "teatcher": "عبد الله",
+        "state": true,
+        "registerDate": "12/06/1445H"
+      }
+    },
+    {
+        "413888": {
+          "studintName": "ابو_بكر محمد رحيم",
+          "studintId": "413888",
+          "studintPhone": "0572265944",
+          "studintAge": "20/11/1425",
+          "currentSurah": "الذاريات",
+          "parentId": "513888",
+          "parentPhone": "0510251070",
+          "teatcher": "عبد الله",
+          "state": true,
+          "registerDate": "12/03/1445H"
+        }
+      },
+      {
+      "501830": {
+        "studintName": "حسن اسامه صباغ",
+        "studintId": "501830",
+        "studintPhone": "0555015321",
+        "studintAge": "27",
+        "currentSurah": "البقرة",
+        "parentId": "501830",
+        "parentPhone": "",
+        "teatcher": "عبد الله",
+        "state": false,
+        "registerDate": "04/08/1445H"
+      }
+    },
+    {
+        "139448": {
+          "studintName": "يامي طالب عبده قايد",
+          "studintId": "139448",
+          "studintPhone": "",
+          "studintAge": "24/06/1434",
+          "currentSurah": "الناس",
+          "parentId": "058723",
+          "parentPhone": "0557092584",
+          "teatcher": "عصام",
+          "state": true,
+          "registerDate": "10/08/1445H"
+        }
+      },
+      {
+        "304517": {
+          "studintName": "سلمان فهد سعيد الجهني",
+          "studintId": "304517",
+          "studintPhone": "0552978297",
+          "studintAge": "25/01/1429",
+          "currentSurah": "القمر",
+          "parentId": "743891",
+          "parentPhone": "0500068635",
+          "teatcher": "عبد الله",
+          "state": true,
+          "registerDate": "25/02/1445H"
+        }
+      }
+
+]
