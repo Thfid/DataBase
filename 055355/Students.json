@@ -488,7 +488,7 @@
       "currentSurah": "القارعة",
       "parentId": "332234054",
       "parentPhone": "0542465624",
-      "teatcher": "2002",
+      "teatcherId": "2002",
       "state": true,
       "registerDate": "04/09/1445H"
     }
@@ -502,7 +502,7 @@
       "currentSurah": "البينة",
       "parentId": "332234",
       "parentPhone": "0542465624",
-      "teatcher": "2002",
+      "teatcherId": "2002",
       "state": true,
       "registerDate": "04/09/1445H"
     }
@@ -516,7 +516,7 @@
       "currentSurah": "الواقعة",
       "parentId": "100001",
       "parentPhone": "0591113202",
-      "teatcher": "1974",
+      "teatcherId": "1974",
       "state": true,
       "registerDate": "04/09/1445H"
     }
