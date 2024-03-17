@@ -4724,7 +4724,7 @@
                   "hesitatedsRev": 0,
                   "misteaksRev": 0,
                   "totalRate": 10,
-                  "AttendanceState": "2",
+                  "AttendanceState": "5",
                   "behaviorArray": []
                 }
               },
@@ -4820,7 +4820,7 @@
                   "memoSurah": "العاديات",
                   "memoSurahFrom": "الزلزلة",
                   "memoSurahTo": "",
-                  "memoSurahLines": "",
+                  "memoSurahLines": "10",
                   "memoListen": "",
                   "memoTime": "",
                   "hesitateds": 1,
