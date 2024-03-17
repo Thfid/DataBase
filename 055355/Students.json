@@ -550,6 +550,21 @@
       "state": true,
       "registerDate": "07/09/1445H"
     }
+  },
+  {
+    "930172": {
+      "studintName": "عمر يحيى أحمد المالكي",
+      "studintId": "930172",
+      "studintPhone": "",
+      "studintAge": "20/08/1430",
+      "currentSurah": "الناس",
+      "parentId": "040999",
+      "parentPhone": "0506657686",
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": true,
+      "registerDate": "07/09/1445H"
+    }
   }
 
 ]
