@@ -520,6 +520,36 @@
       "state": true,
       "registerDate": "04/09/1445H"
     }
+  },
+  {
+    "653231": {
+      "studintName": "عبد_الله عادل عبد_الله الشهري",
+      "studintId": "653231",
+      "studintPhone": "",
+      "studintAge": "14/12/1437",
+      "currentSurah": "الماعون",
+      "parentId": "997791",
+      "parentPhone": "0540232325",
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": true,
+      "registerDate": "07/09/1445H"
+    }
+  },
+  {
+    "811972": {
+      "studintName": "سعود عادل عبد_الله الشهري",
+      "studintId": "811972",
+      "studintPhone": "",
+      "studintAge": "27/01/1439",
+      "currentSurah": "النصر",
+      "parentId": "997791",
+      "parentPhone": "0540232325",
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": true,
+      "registerDate": "07/09/1445H"
+    }
   }
 
 ]
