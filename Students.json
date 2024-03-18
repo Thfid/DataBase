@@ -565,6 +565,37 @@
       "state": true,
       "registerDate": "07/09/1445H"
     }
+  },
+  {
+    "739918": {
+      "studintName": "سالم وقاص رضى حكيم",
+      "studintId": "739918",
+      "studintPhone": "",
+      "studintAge": "27/09/2014",
+      "currentSurah": "القاعدة النورانية",
+      "parentId": "739919",
+      "parentPhone": "0567621315",
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": true,
+      "registerDate": "08/09/1445H"
+    }
+  },
+  {
+    "739917": {
+      "studintName": "هشام وقاص رضى حكيم",
+      "studintId": "739917",
+      "studintPhone": "",
+      "studintAge": "03/04/2017",
+      "currentSurah": "القاعدة النورانية",
+      "parentId": "739919",
+      "parentPhone": "0567621315",
+      "teatcherId": "2002",
+      "mosqueN": "m055355",
+      "state": true,
+      "registerDate": "08/09/1445H"
+    }
   }
+
 
 ]
