@@ -5076,7 +5076,7 @@
           "hesitatedsRev": 0,
           "misteaksRev": 0,
           "totalRate": 10,
-          "AttendanceState": 5,
+          "AttendanceState": 1,
           "behaviorArray": []
         }
       },
