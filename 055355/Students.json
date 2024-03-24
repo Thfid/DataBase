@@ -595,7 +595,22 @@
       "state": true,
       "registerDate": "08/09/1445H"
     }
+  },
+  {
+  "024301": {
+    "studintName": "نايف محمد الياس نور",
+    "studintId": "024301",
+    "studintPhone": "",
+    "studintAge": "29/02/1435",
+    "currentSurah": "الانفطار",
+    "parentId": "023485",
+    "parentPhone": "0535964282",
+    "teatcherId": "2002",
+    "mosqueN": "m055355",
+    "state": true,
+    "registerDate": "14/09/1445H"
   }
+}
 
 
 ]
