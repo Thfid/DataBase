@@ -655,51 +655,5 @@
       "state": true,
       "registerDate": "08/10/1445H"
     }
-  },
-    {
-    "322810": {
-      "studintName": "راشد محمد رفيق سعيدالله",
-      "studintId": "322810",
-      "studintPhone": "",
-      "studintAge": "05/03/1436",
-      "currentSurah": " النجم",
-      "parentId": "937602",
-      "parentPhone": "0559338769",
-      "teatcherId": "2002",
-      "mosqueN": "m055355",
-      "state": true,
-      "registerDate": "08/10/1445H"
-    }
-  },
-  {
-    "320921": {
-      "studintName": "راكان محمد رفيق سعيدالله",
-      "studintId": "320921",
-      "studintPhone": "",
-      "studintAge": "04/11/1432",
-      "currentSurah": "الذاريات",
-      "parentId": "937602",
-      "parentPhone": "0559338769",
-      "teatcherId": "2002",
-      "mosqueN": "m055355",
-      "state": true,
-      "registerDate": "08/10/1445H"
-    }
-  },
-  {
-    "320004": {
-      "studintName": "رائد محمد رفيق سعيدالله",
-      "studintId": "320004",
-      "studintPhone": "",
-      "studintAge": "25/09/1431",
-      "currentSurah": "",
-      "parentId": "937602",
-      "parentPhone": "0559338769",
-      "teatcherId": "2002",
-      "mosqueN": "m055355",
-      "state": true,
-      "registerDate": "08/10/1445H"
-    }
   }
-
 ]
