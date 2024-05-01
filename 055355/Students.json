@@ -310,7 +310,7 @@
       "parentPhone": "0553531383",
       "teatcherId": "1974",
       "mosqueN": "m055355",
-      "state": true,
+      "state": false,
       "registerDate": "08/04/1445H"
     }
   },
@@ -517,7 +517,7 @@
       "parentId": "100001",
       "parentPhone": "0591113202",
       "teatcherId": "1974",
-      "state": true,
+      "state": false,
       "registerDate": "04/09/1445H"
     }
   },
