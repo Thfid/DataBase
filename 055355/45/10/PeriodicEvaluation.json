@@ -23228,7 +23228,7 @@
           "reviewState": true,
           "rereview": false,
           "reviewFirstTime": true,
-          "reviewSurahFrom": "",
+          "reviewSurahFrom": "الصافات",
           "reviewSurahTo": "",
           "reviewListener1": "",
           "reviewListener2": "",
@@ -25291,8 +25291,6 @@
           "totalRate": 10,
           "AttendanceState": 0,
           "behaviorArray": [
-            "talk",
-            "talk",
             "talk"
           ]
         }
